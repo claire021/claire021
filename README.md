@@ -1,44 +1,51 @@
 <div align="center">
 
-# Menghan Dai (claire021) 👋
-### AI Engineer & Computational Linguistics Student
+# Hi there! I'm Menghan Dai 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### AI Engineer | Computational Linguistics Student
+*Aspiring LLM Researcher focusing on model architecture, efficient training, and large-scale data systems.*
 
 ---
 
-## 🚀 Research & Engineering Focus
-My mission is to bridge the gap between **Linguistic Reasoning** and **Scalable AI Infrastructure**. 
-Currently, I am transitioning from traditional NLP to **Large Language Models (LLMs)**, focusing on:
-*   **LLM Engineering:** SFT (Supervised Fine-Tuning) and RAG (Retrieval-Augmented Generation) systems.
-*   **Model Optimization:** Investigating architectural bottlenecks in LLM deployment and logical inference.
-*   **Computational Foundations:** Applying deep mathematical insights (Probability, Logic, Information Theory) to enhance model interpretability.
+## 🛠 Skills & Tech Stack
 
-## 🛠 Technical Skills
-*   **Deep Learning & NLP:** PyTorch, Transformer architectures, SFT, RAG pipelines.
-*   **Programming Languages:**
-    *   **Python:** Proficient in algorithm implementation, data-intensive processing, and AI workflows.
-    *   **Java:** Experienced in backend development, system design, and large-scale data handling.
-    *   **R:** Statistical analysis and linguistic data processing.
-*   **Engineering & Tools:** Git, Linux, Distributed Systems, High-Performance Computing (HPC) concepts.
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-444444?style=flat&logo=gnu-bash&logoColor=white)
+
+### ML / DL / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### IDEs
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 🔬 Research Interests
+*   **LLM Full-Stack:** Pre-training, SFT, and model alignment.
+*   **Computational Foundations:** Applying probability and information theory to model interpretability.
+*   **Engineering:** Efficient LLM inference and distributed training architectures.
+
+---
 
 ## 📂 Featured Projects
-*   **RAG-based LLM Optimization:** Implementing retrieval-augmented generation pipelines to enhance LLM logical consistency.
-*   **Dependency Treebank Analyzer:** A high-performance pipeline for syntactic feature extraction, built to optimize data quality for downstream model training.
-
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=claire021&show_icons=true&theme=radical&hide_border=true)
+*   **MiniMind:** End-to-end LLM training pipeline (Tokenizer design, Pre-training, SFT).
+*   **Dependency Treebank Analyzer:** High-performance Python pipeline for syntactic feature extraction.
 
 ---
 
-## 📫 Let's Connect
-*   📧 **Email:** menghan.dai@student.uni-tuebingen.de
-*   📍 **Location:** Tübingen, Germany
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=claire021&show_icons=true&theme=radical&hide_border=true)
 
 </div>
