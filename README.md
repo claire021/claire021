@@ -3,13 +3,11 @@
 # Hi there! I'm Menghan Dai 👋
 ### AI Engineer | Computational Linguistics Student
 
-[**English**](#-english-version) | [**中文版**](#-中文版本)
+English | [**中文版**](./README_ZH.md)
 
 ---
 
 </div>
-
-## 🌐 English Version
 
 <div align="center">
 
@@ -22,61 +20,27 @@
 </div>
 
 ### 🔬 Research Interests
-*   **LLM Full-Stack:** Pre-training, SFT, and model alignment (DPO/GRPO).
+*   **LLM Full-Stack:** Pre-training, SFT, and model alignment (DPO/GRPO/RLHF).
 *   **Computational Foundations:** Applying probability and information theory to model interpretability.
-*   **Engineering:** Efficient RAG systems, Vector Databases, and Distributed Training.
+*   **Engineering:** Efficient RAG systems, distributed training, and inference optimization.
 
 ### 📂 Featured Projects
 
-#### 🚀 [minimind] | Lightweight LLM Training & Alignment System
-*   **Architecture:** Built a **Decoder-only** model based on Llama 3 with **RoPE, GQA, KV Cache, and RMSNorm**.
-*   **Pipeline:** Developed high-performance **Pre-training, SFT, and LoRA** scripts using PyTorch with AMP and Gradient Accumulation.
-*   **Alignment:** Implemented **DPO** and **GRPO** algorithms with rule-based rewards to enhance reasoning consistency and formatting stability.
+#### 🚀 [Litemind](https://github.com/claire021/Litemind) | Lightweight LLM Training & Alignment System
+*Dec 2025 – Feb 2026*
+*   **Core Architecture:** Implemented a **Decoder-only** model based on Llama 3 architecture, featuring **RoPE, GQA, KV Cache, and RMSNorm** core modules.
+*   **Training Pipeline:** Developed end-to-end scripts for **Pre-training, SFT, and LoRA** using PyTorch. Supported **Mixed Precision (AMP)** and Gradient Accumulation. Optimized training stability via conversation templates and **Loss Masking** to reduce noise.
+*   **Preference Alignment:** Integrated **DPO** and **GRPO** post-training methods. Combined rule-based rewards with reasoning format constraints to enhance logical consistency and formatting stability.
 
-#### 🔍 [All-in-RAG] | Domain-Specific RAG Intelligent Q&A System
-*   **Structured Chunking:** Developed a **structure-aware chunking** strategy for Markdown recipes. Implemented **"Child-to-Parent" retrieval**, ensuring context continuity and mitigating information fragmentation.
-*   **Hybrid Search & Intent:** Built a dual-path retrieval system (**FAISS + BM25**) with **RRF (Reciprocal Rank Fusion)**. Integrated Query Rewriting and Dynamic Routing, achieving **97.4% Recall** and **83.0% Precision**.
-*   **Automated Evaluation:** Established a **RAGAS** pipeline for automated test-set generation and production-grade evaluation (Faithfulness: 75.4%, Correctness: 78.5%).
-
----
-
-## 🇨🇳 中文版本
-
-<div align="center">
-
----
-
-### 🛠 技术栈
-**编程语言:** Java, Python, R, Shell  
-**深度学习/自然语言处理:** PyTorch, HuggingFace, NumPy, Pandas  
-**工具与环境:** Linux, Git, Docker, IntelliJ IDEA, PyCharm, VS Code
-
-</div>
-
-### 🔬 研究兴趣
-*   **LLM 全栈:** 预训练、指令微调（SFT）与偏好对齐（DPO/GRPO）。
-*   **计算基础:** 将概率论与信息论应用于模型可解释性研究。
-*   **工程实践:** 高效 RAG 系统、向量数据库与分布式训练。
-
-### 📂 项目经历
-
-#### 🚀 [minimind] | 基于 Llama3 的轻量级大语言模型训练与对齐系统
-*   **架构搭建:** 基于 Decoder-only 架构复现 Llama 3 核心模块，包括 **RoPE 位置编码、GQA 注意力、KV Cache 与 RMSNorm**。
-*   **全流程训练:** 独立完成 **Pre-training、SFT 与 LoRA** 训练脚本开发，支持混合精度与梯度累积，通过 Loss Mask 优化指令微调效果。
-*   **偏好对齐:** 实现 **DPO** 与 **GRPO** 对齐算法，结合规则奖励与推理格式约束，提升了模型回答的逻辑一致性。
-
-#### 🔍 [All-in-RAG] | 基于 LLM 的垂域 RAG 智能问答系统
-*   **结构化分块:** 针对 Markdown 语义截断痛点，自研**结构感知分块**策略，落地“**子块召回、父文档生成**”策略，保障知识输出的完整性。
-*   **混合检索与意图增强:** 构建 **FAISS + BM25** 双路检索，集成 **RRF 融合重排**、Query 重写与动态路由，指标达到 **Recall 97.4%, Precision 83.0%**。
-*   **自动化评测:** 基于 **RAGAS** 搭建生产级评测流水线，核心指标达标：Faithfulness 75.4%, Correctness 78.5%。
+#### 🔍 [All-in-RAG](https://github.com/claire021/all-in-rag) | Domain-Specific RAG Intelligent Q&A System
+*Sep 2025 – Dec 2025*
+*   **Structure-Aware Processing:** Developed a **structured chunking** strategy for Markdown recipe documents. Implemented a **"Child-to-Parent" retrieval** policy to ensure context continuity and mitigate information fragmentation.
+*   **Hybrid Retrieval & Intent:** Built a dual-path system (**FAISS + BM25**) with **RRF (Reciprocal Rank Fusion)** for re-ranking. Integrated Query Rewriting and Dynamic Routing, achieving **97.4% Recall** and **83.0% Precision**.
+*   **RAGAS Evaluation:** Established a production-grade automated pipeline for test-set generation and evaluation. Core metrics achieved: **Faithfulness 75.4%, Answer Relevancy 78.2%, Correctness 78.5%**.
 
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=claire021&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
-<div align="right">
-  <a href="#-hi-there-i-m-menghan-dai-">Back to Top / 返回顶部</a>
 </div>
