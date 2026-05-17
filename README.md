@@ -26,14 +26,12 @@ English | [**中文版**](./README_ZH.md)
 
 ### 📂 Featured Projects
 
-#### 🚀 [Litemind](https://github.com/claire021/Litemind) | Lightweight LLM Training & Alignment System
-*Dec 2025 – Feb 2026*
+#### 🚀 Lightweight LLM Training & Alignment System
 *   **Core Architecture:** Implemented a **Decoder-only** model based on Llama 3 architecture, featuring **RoPE, GQA, KV Cache, and RMSNorm** core modules.
 *   **Training Pipeline:** Developed end-to-end scripts for **Pre-training, SFT, and LoRA** using PyTorch. Supported **Mixed Precision (AMP)** and Gradient Accumulation. Optimized training stability via conversation templates and **Loss Masking** to reduce noise.
 *   **Preference Alignment:** Integrated **DPO** and **GRPO** post-training methods. Combined rule-based rewards with reasoning format constraints to enhance logical consistency and formatting stability.
 
-#### 🔍 [All-in-RAG](https://github.com/claire021/all-in-rag) | Domain-Specific RAG Intelligent Q&A System
-*Sep 2025 – Dec 2025*
+#### 🔍 Domain-Specific RAG Intelligent Q&A System
 *   **Structure-Aware Processing:** Developed a **structured chunking** strategy for Markdown recipe documents. Implemented a **"Child-to-Parent" retrieval** policy to ensure context continuity and mitigate information fragmentation.
 *   **Hybrid Retrieval & Intent:** Built a dual-path system (**FAISS + BM25**) with **RRF (Reciprocal Rank Fusion)** for re-ranking. Integrated Query Rewriting and Dynamic Routing, achieving **97.4% Recall** and **83.0% Precision**.
 *   **RAGAS Evaluation:** Established a production-grade automated pipeline for test-set generation and evaluation. Core metrics achieved: **Faithfulness 75.4%, Answer Relevancy 78.2%, Correctness 78.5%**.
