@@ -75,39 +75,45 @@
 
 ## 🛠 技术栈
 
-<div align="center">
+<p align="center">
+<strong>编程语言与 Web：</strong>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-### 编程语言
+<p align="center">
+<strong>机器学习 / 深度学习：</strong>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<p align="center">
+<strong>大模型与 NLP：</strong>&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/vLLM-Inference-FF6F00?style=flat" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-RAG-6A5ACD?style=flat" />
+</p>
 
-### 机器学习
+<p align="center">
+<strong>数据库与检索：</strong>&nbsp;
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat" />
+<img src="https://img.shields.io/badge/BM25-Retrieval-5C6BC0?style=flat" />
+<img src="https://img.shields.io/badge/Graph_RAG-Knowledge_Graph-00897B?style=flat" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### LLM / NLP
-
-![LLM](https://img.shields.io/badge/LLM-Pre--training%20%7C%20SFT%20%7C%20RLHF-8A2BE2?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Hybrid%20%7C%20Graph-005571?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-Inference-FF6F00?style=flat-square)
-![LoRA](https://img.shields.io/badge/PEFT-LoRA-009688?style=flat-square)
-
-### 基础设施与工具
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
-
-</div>
-
+<p align="center">
+<strong>基础工具：</strong>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 ---
 
 ## 🔭 目前正在探索
