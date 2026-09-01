@@ -84,39 +84,45 @@ My current work focuses on:
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
+<strong>Languages & Web:</strong>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-**Languages & Web:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+<strong>ML / DL:</strong>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+</p>
 
-**ML / DL:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+<p align="center">
+<strong>LLM & NLP:</strong>&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/vLLM-Inference-FF6F00?style=flat" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-RAG-6A5ACD?style=flat" />
+</p>
 
-**LLM & NLP:**  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![vLLM](https://img.shields.io/badge/vLLM-Inference-FF6F00?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-6A5ACD?style=flat)
+<p align="center">
+<strong>Databases & Retrieval:</strong>&nbsp;
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat" />
+<img src="https://img.shields.io/badge/BM25-Retrieval-5C6BC0?style=flat" />
+<img src="https://img.shields.io/badge/Graph_RAG-Knowledge_Graph-00897B?style=flat" />
+</p>
 
-**Databases & Retrieval:**  
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat)
-![BM25](https://img.shields.io/badge/BM25-Retrieval-5C6BC0?style=flat)
-![Graph RAG](https://img.shields.io/badge/Graph_RAG-Knowledge_Graph-00897B?style=flat)
-
-**Infrastructure & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+<strong>Infrastructure & Tools:</strong>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
 ---
 
