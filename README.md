@@ -153,8 +153,5 @@ I am particularly interested in understanding how reinforcement learning and oth
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-Interested in LLM training, reinforcement learning, reasoning, RAG, and multimodal AI.
 
 </div>
