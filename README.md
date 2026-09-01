@@ -16,12 +16,11 @@ English · [中文版](./README_ZH.md)
 
 ## 👩‍💻 About Me
 
-I am a **Computational Linguistics B.A. student at the University of Tübingen**, interested in LLM post-training, complex reasoning, RL infra, and multimodal modeling.
+I am a **Computational Linguistics B.A. student at the University of Tübingen**
 
 My current work focuses on:
 
 - 🧠 **LLM training & post-training**
-- 🧩 **Complex reasoning and model behavior**
 - 🔎 **RAG, knowledge graphs, and retrieval systems**
 - 🌐 **Multimodal representation and modeling**
 
