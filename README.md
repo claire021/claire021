@@ -25,8 +25,6 @@ My current work focuses on:
 - 🔎 **RAG, knowledge graphs, and retrieval systems**
 - 🌐 **Multimodal representation and modeling**
 
-I enjoy working across both **model-level research** and **system implementation**, from building decoder-only language models from scratch to designing retrieval and evaluation pipelines.
-
 ---
 
 ## 🧭 Current Research Interests
@@ -135,8 +133,6 @@ Complex Reasoning
       ↓
 Multimodal Reasoning
 ```
-
-I am particularly interested in understanding how reinforcement learning and other post-training methods shape reasoning behavior, and how these ideas can be extended from language models to multimodal systems.
 
 ---
 
